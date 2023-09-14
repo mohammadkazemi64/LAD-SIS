@@ -1,2 +1,2 @@
 # LAD-SIS
-This is the R code for the Sure Independence Screening method based on the L_1 loss function which is robust in presence of outliers.
+This is the R code for the Sure Independence Screening method based on the L_1 loss which is robust in the presence of outliers. This method was presented in my preprint entitled "A Robust Variable Screening Approach with Application to Gene Expression Data" which is under review for publication. I also proposed an iterative extension of this method, namely LAD-ISIS, that enables us to fully exploit the joint information among the predictors.
